@@ -41,7 +41,7 @@
 ### Реализовать совместную работу и передачу данных в связке Python - Google-Sheets – Unity.
 Ход работы:
 Создал google таблицу и добавил польззователя
-Написал python код для записи в гугл таблицу main
+Написал python код для записи в гугл таблицу (main.py)[https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/main.py]
 
 
 ## Задание 2
