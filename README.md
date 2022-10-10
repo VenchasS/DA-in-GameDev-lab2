@@ -48,7 +48,9 @@
 
 После этого был написанн C# скрипт для юнити чтобы подгрузить данные из гугл таблиц в юнити 
 и связать это с звуком в зависимости от данных
-C# скрипт (click)[https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/NewBehaviourScript.cs]
+C# скрипт [click](https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/NewBehaviourScript.cs)
+Результаты выполнения скрипта
+![Screenshot_3](https://user-images.githubusercontent.com/49115035/194919147-f8ee87e2-518b-4894-a47e-a995fab3b18e.png)
 
 ## Задание 2
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
