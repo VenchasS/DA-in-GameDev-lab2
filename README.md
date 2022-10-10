@@ -70,6 +70,8 @@ Python [file](https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/task2.py)
 Был переписан скрипт из 1 задания для подгрузки данных об `A, B, LOSS` из гугл таблицы
 После чего в зависимости от `LOSS` проигрывался звук:
 `LOSS > 1500 = Badaudio` , `LOSS <= 1500 && LOSS > 500 = Noramlaudio` , `LOSS <= 500 = Goodaudio`
+Результат работы скрипта:
+![Screenshot_7](https://user-images.githubusercontent.com/49115035/194932829-a433dbd6-38dc-40ed-abe3-095220b5fa20.png)
 
 ссылка на [скрипт](https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/NewBehaviourScript2.cs)
 ## Выводы
