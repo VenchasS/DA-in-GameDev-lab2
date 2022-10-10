@@ -6,7 +6,7 @@
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
-| Задание 1 | # | 60 |
+| Задание 1 | * | 60 |
 | Задание 2 | # | 20 |
 | Задание 3 | # | 20 |
 
@@ -48,7 +48,7 @@
 
 После этого был написанн C# скрипт для юнити чтобы подгрузить данные из гугл таблиц в юнити 
 и связать это с звуком в зависимости от данных
-C# скрипт [click](https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/NewBehaviourScript.cs)
+Сам C# [скрипт](https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/NewBehaviourScript.cs)
 Результаты выполнения скрипта
 ![Screenshot_3](https://user-images.githubusercontent.com/49115035/194919147-f8ee87e2-518b-4894-a47e-a995fab3b18e.png)
 
