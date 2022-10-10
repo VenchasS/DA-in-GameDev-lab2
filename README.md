@@ -66,21 +66,13 @@ Python [file](https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/task2.py)
 
 
 ## Задание 3
-### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
+### 
+Был переписан скрипт из 1 задания для подгрузки данных об `A, B, LOSS` из гугл таблицы
+После чего в зависимости от `LOSS` проигрывался звук:
+`LOSS > 1500 = Badaudio` , `LOSS <= 1500 && LOSS > 500 = Noramlaudio` , `LOSS <= 500 = Goodaudio`
 
+ссылка на [скрипт](https://github.com/VenchasS/DA-in-GameDev-lab2/blob/main/NewBehaviourScript2.cs)
 ## Выводы
+Я научился подгружать и загружать данные из гугл таблиц при помощи связки python , C#
 
-Абзац умных слов о том, что было сделано и что было узнано.
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Powered by
-
-**BigDigital Team: Denisov | Fadeev | Panov**
